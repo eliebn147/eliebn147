@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @eliebn147 
 -   {
--     firstName: Pierre,
--     lastName : Nakad,
+  -     firstName: Elie,
+-     lastName : Bou Nehme,
 -     email : eliebn1472@gmail.com
--     age : 24
+-     age : 25
 -     linkedIn : https://www.linkedin.com/in/elie-bou-nehme/
 -   }
 - 👀 I’m a Full Stack developer
